@@ -1,16 +1,16 @@
-# Ourspace
+#Ourspace
 
-A private place for you and your close friends: messages, and soon calls and watching together.
+Aprivateplaceforyouandyourclosefriends:messages,andsooncallsandwatchingtogether.
 
-## ⬇️ [Get Ourspace here](https://github.com/onlineslav/ourspace-releases/releases/latest)
+##⬇️[GetOurspacehere](https://github.com/onlineslav/ourspace-releases/releases/latest)
 
-Click the link above. On the page that opens, use the big **Download** button for your computer and follow the steps under it.
+Clickthelinkabove.Onthepagethatopens,usethebig**Download**buttonforyourcomputerandfollowthestepsunderit.
 
-- **Windows:** the button that says *Windows*
-- **Mac:** *Apple chip* or *Intel*. Not sure? Apple menu  → **About This Mac**: "Chip: Apple M…" means Apple chip, "Processor: Intel" means Intel.
+-**Windows:**thebuttonthatsays*Windows*
+-**Mac:***Applechip*or*Intel*.Notsure?Applemenu→**AboutThisMac**:"Chip:AppleM…"meansApplechip,"Processor:Intel"meansIntel.
 
-Once installed, Ourspace keeps itself up to date. You won't need to come back here.
+Onceinstalled,Ourspacekeepsitselfuptodate.Youwon'tneedtocomebackhere.
 
 ---
 
-<sub>This page only holds the installers and update files. Nothing you write is ever stored here: messages go straight between your computers.</sub>
+<sub>Thispageonlyholdstheinstallersandupdatefiles.Nothingyouwriteiseverstoredhere:messagesgostraightbetweenyourcomputers.</sub>
